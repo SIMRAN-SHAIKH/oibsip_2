@@ -1,0 +1,62 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(235, 252, 140);
+}
+.container{
+    border: 10px solid green;
+    width: 50rem;
+    margin: auto;
+    min-height: 100vh;
+}
+
+.content{
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.information p{
+    text-align: justify;
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif ;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+}
+
+.information h2{
+    text-align: left;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif ;
+    line-height: 40px;
+    letter-spacing: 0.5px;
+}   
+
+.information ul{
+    margin-left: 50px;
+}
+
+li{
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+    letter-spacing: 0.5px;
+}
+
+.image img{
+    justify-content: center;
+    margin: auto;
+    width: 44rem;
+    height: 50rem;;
+    height: 55vh;
+    border-radius: 50px;
+    border: 8px solid green;
+}
+
+footer{
+    text-align: end;
+    font-size: 20px;
+}
